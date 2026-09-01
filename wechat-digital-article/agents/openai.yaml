@@ -1,0 +1,5 @@
+interface:
+  display_name: "公众号数字媒体排版"
+  short_description: "将中文文章渲染成可直接复制的公众号数字媒体版 HTML"
+  brand_color: "#00A6A6"
+  default_prompt: "使用 $wechat-digital-article 将我提供的中文文章渲染为可直接复制到微信公众号的数字媒体版 HTML。"
